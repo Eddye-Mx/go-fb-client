@@ -16,7 +16,7 @@
 
 - Generate an API token from https://developers.facebook.com/apps > Marketing API > Tools > Generate Token, save the token cause it won't be saved by facebook
 
-   ![Captura de Pantalla 2022-10-07 a la(s) 12 18 01](https://user-images.githubusercontent.com/99297157/194614210-c2aabe6a-1e3c-4192-a848-15a1f126ec83.png)
+   ![Captura de Pantalla 2022-10-07 a la(s) 13 28 04](https://user-images.githubusercontent.com/99297157/194625257-297bc893-a284-4c7e-9c2c-ae81b3ffc3a7.png)
 
 - Get your Facebook Ads Account ID on https://business.facebook.com/
 

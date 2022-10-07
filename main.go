@@ -13,7 +13,7 @@ const Fields = "account_id,account_name,clicks,cost_per_unique_click,cpc,cpm,cpp
 
 func main() {
 	//call a function to get that level metrics on a specific date range
-	results, err := GetAds("2022-09-01", "2022-10-01")
+	results, err := GetAccount("2022-09-01", "2022-10-01")
 	if err != nil {
 		//print errors
 		fmt.Println(err)
